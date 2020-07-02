@@ -84,3 +84,8 @@ python local_inference_test.py\
      --img ./test/15.jpg\
      --cpu
 ```
+
+## Thanks to:
+- https://github.com/Karat-GS/object_detection_demo.git
+- tensorflow appi (google)
+- google colab
