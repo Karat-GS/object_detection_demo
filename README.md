@@ -2,7 +2,7 @@
 
 ## How to Run
 
-Easy way: run this <a href="https://colab.research.google.com/github/Karat-GS/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Easy way: run this <a href="https://github.com/Karat-GS/object_detection_demo/blob/karat/tensorflow_object_detection_training_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 <!-- [this Colab Notebook](https://colab.research.google.com/github/Karat-GS/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb). -->
 
